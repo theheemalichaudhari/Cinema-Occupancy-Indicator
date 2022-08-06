@@ -3,4 +3,4 @@ The IR sensor's activity principle, an infrared sensor, is an electrical device 
 The project's operation is as follows: when the user enters data, it is recorded, and the LED  and LCD react and provide the output.
 # Cinema-Occupancy-Indicator
 
-![IMG_20210819_095401](https://user-images.githubusercontent.com/85636824/183260585-e9b7c2af-2cd1-415d-8c48-fb6a2c84df3a.jpg)
+![cinema occupancy](https://user-images.githubusercontent.com/85636824/183260601-3bc7f17b-bd4e-47f2-a2cd-a07b3fe0464d.png)
